@@ -1,0 +1,62 @@
+# Bremen
+
+> Geotechnical engineering company in Germany, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aktive Passive Verankerungsbemessung](https://bremen.geotechnik.sbs/aktive-passive-verankerungsbemessung/)
+- [Analyse Seismischen Verstarkung](https://bremen.geotechnik.sbs/analyse-seismischen-verstarkung/)
+- [Analyse Ungesattigter Boden](https://bremen.geotechnik.sbs/analyse-ungesattigter-boden/)
+- [Bemessung Flexibler Fahrbahnen](https://bremen.geotechnik.sbs/bemessung-flexibler-fahrbahnen/)
+- [Bemessung Rutteldruckverdichtung](https://bremen.geotechnik.sbs/bemessung-rutteldruckverdichtung/)
+- [Bemessung Starrer Fahrbahnen](https://bremen.geotechnik.sbs/bemessung-starrer-fahrbahnen/)
+- [Bemessung Vertikalen Drans](https://bremen.geotechnik.sbs/bemessung-vertikalen-drans/)
+- [Bewertung Quellfahigen Boden](https://bremen.geotechnik.sbs/bewertung-quellfahigen-boden/)
+- [Bodenklassifikation](https://bremen.geotechnik.sbs/bodenklassifikation/)
+- [Bodenmechanische Untersuchung](https://bremen.geotechnik.sbs/bodenmechanische-untersuchung/)
+- [Bodenverbesserung](https://bremen.geotechnik.sbs/bodenverbesserung/)
+- [Bodenverflussigungsanalyse](https://bremen.geotechnik.sbs/bodenverflussigungsanalyse/)
+- [Boschungsbruchanalyse](https://bremen.geotechnik.sbs/boschungsbruchanalyse/)
+- [Boschungsstabilitatsanalyse](https://bremen.geotechnik.sbs/boschungsstabilitatsanalyse/)
+- [Cbr Studie Fur Straßenentwurf](https://bremen.geotechnik.sbs/cbr-studie-fur-straßenentwurf/)
+- [Charakterisierung Residualboden](https://bremen.geotechnik.sbs/charakterisierung-residualboden/)
+- [Differenzialsetzungsanalyse](https://bremen.geotechnik.sbs/differenzialsetzungsanalyse/)
+- [Elektrische Widerstandsmessung Ves](https://bremen.geotechnik.sbs/elektrische-widerstandsmessung-ves/)
+- [Erdbebenisolationsbemessung](https://bremen.geotechnik.sbs/erdbebenisolationsbemessung/)
+- [Erdbebensichere Grundungsbemessung](https://bremen.geotechnik.sbs/erdbebensichere-grundungsbemessung/)
+- [Erkundung](https://bremen.geotechnik.sbs/erkundung/)
+- [Fahrbahnbau Untergrundbemessung](https://bremen.geotechnik.sbs/fahrbahnbau-untergrundbemessung/)
+- [Felddurchlassigkeitsversuch](https://bremen.geotechnik.sbs/felddurchlassigkeitsversuch/)
+- [Fundamente](https://bremen.geotechnik.sbs/fundamente/)
+- [Geogitter Spezifikation](https://bremen.geotechnik.sbs/geogitter-spezifikation/)
+- [Geophysik](https://bremen.geotechnik.sbs/geophysik/)
+- [Geotechnische Analyse Fur Tunnel](https://bremen.geotechnik.sbs/geotechnische-analyse-fur-tunnel/)
+- [Geotechnische Boschungsuberwachung](https://bremen.geotechnik.sbs/geotechnische-boschungsuberwachung/)
+- [Geotextil Spezifikation](https://bremen.geotechnik.sbs/geotextil-spezifikation/)
+- [Hange Wande](https://bremen.geotechnik.sbs/hange-wande/)
+- [In Situ Prufungen](https://bremen.geotechnik.sbs/in-situ-prufungen/)
+- [Injektionsbemessung](https://bremen.geotechnik.sbs/injektionsbemessung/)
+- [Labor](https://bremen.geotechnik.sbs/labor/)
+- [Labor Cbr Versuch](https://bremen.geotechnik.sbs/labor-cbr-versuch/)
+- [Labor Durchlassigkeitsversuch](https://bremen.geotechnik.sbs/labor-durchlassigkeitsversuch/)
+- [Mechanisch Stabilisierter Erdkorper](https://bremen.geotechnik.sbs/mechanisch-stabilisierter-erdkorper/)
+- [Normal Modifiziert](https://bremen.geotechnik.sbs/normal-modifiziert/)
+- [Odometer Konsolidationsversuch](https://bremen.geotechnik.sbs/odometer-konsolidationsversuch/)
+- [Pfahlanalyse Mantelreibung Vs Spitzendruck](https://bremen.geotechnik.sbs/pfahlanalyse-mantelreibung-vs-spitzendruck/)
+- [Plattengrundungsbemessung](https://bremen.geotechnik.sbs/plattengrundungsbemessung/)
+- [Porchet Doppelring Infiltrometer](https://bremen.geotechnik.sbs/porchet-doppelring-infiltrometer/)
+- [Schuttstromanalyse](https://bremen.geotechnik.sbs/schuttstromanalyse/)
+- [Seismik](https://bremen.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://bremen.geotechnik.sbs/seismische-mikrozonierung/)
+- [Setzungsanalyse](https://bremen.geotechnik.sbs/setzungsanalyse/)
+- [Siebung Hydrometer](https://bremen.geotechnik.sbs/siebung-hydrometer/)
+- [Spundwandbemessung](https://bremen.geotechnik.sbs/spundwandbemessung/)
+- [Standard Penetration Test](https://bremen.geotechnik.sbs/standard-penetration-test/)
+- [Straenbaugeotechnik](https://bremen.geotechnik.sbs/straenbaugeotechnik/)
+- [Stutzwandbemessung](https://bremen.geotechnik.sbs/stutzwandbemessung/)
+
+## Contact
+- Website: https://bremen.geotechnik.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in Germany.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
